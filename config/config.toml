@@ -1,0 +1,4 @@
+devmode = true
+
+[database]
+mysql = "root:qianno@(192.168.99.100:3306)/lnkgift?charset=utf8"

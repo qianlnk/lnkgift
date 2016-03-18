@@ -11,7 +11,7 @@ import (
 	_ "github.com/go-sql-driver/mysql"
 	"github.com/jmoiron/sqlx"
 	"golang.org/x/net/context"
-	"haostudent/config"
+	"lnkgift/config"
 	"sync"
 )
 
